@@ -1,0 +1,23 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+instance/
+*.sqlite
+*.db
+
+# Virtual env
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Big binaries
+*.zip
+*.mp4
+*.avi
+*.mov
