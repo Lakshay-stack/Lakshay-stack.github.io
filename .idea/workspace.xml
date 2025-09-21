@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdf24447-f1cd-4dde-b0f4-90608e546029" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publish.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/docs/Lakshay_Girdher_Resume_2025.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/breakpoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/jquery.scrolly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/Assignment 3 Lakshay Girdher.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/Book1.twb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/Final_Project (1).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/Finance_Dashboard(LakshayGirdher) (1).pbix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/H&amp;M_Group.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/H&amp;m (1).pbix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/HM_Data_Analytics_Proposal(Group-H) (1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/Layout2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/Midterm_project (1).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/NBA_Rfinal.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/country_vaccinations (1).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/practice activity 2.twb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/processed_yahoo_finance_portfolio.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/project.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/statistical_analysis_report (1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/BFbmi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/BFdiet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/BFhome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/BFplan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/BFregister.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Insta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Logovol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/MLfinal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/MLmid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Profile1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rassoc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Rfinal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Vol1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Vol2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Vol3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/buffer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/cclogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/certethics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/collegelogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/diet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/disaster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/entre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/fitnesshome.png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/h&amp;mdash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/instalogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/lean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/paper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ploty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tab1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tab2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/valleyeast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/web.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/voul.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask Website" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lakshay-stack&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lakshay-stack/portfolio-website.git&quot;,
+    &quot;accountId&quot;: &quot;8cc1ba98-2ce2-4d33-818d-b02146b5e1cb&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="30CWV3WrcOKYiCOyNNMyUzRC96j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/laksh/Desktop/portfolio website lakshay&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laksh\Desktop\Flask Website\Flask Website\static\files" />
+      <recent name="C:\Users\laksh\Desktop\Flask Website\Flask Website\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laksh\Desktop\portfolio website lakshay\static\images" />
+      <recent name="C:\Users\laksh\Desktop\portfolio website lakshay\static\assets\webfonts" />
+      <recent name="C:\Users\laksh\Desktop\portfolio website lakshay" />
+      <recent name="C:\Users\laksh\Desktop\portfolio website lakshay\Flask Website\static\images" />
+      <recent name="C:\Users\laksh\Desktop\Flask Website\Flask Website\static\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdf24447-f1cd-4dde-b0f4-90608e546029" name="Changes" comment="" />
+      <created>1753132055792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753132055792</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
