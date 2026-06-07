@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdf24447-f1cd-4dde-b0f4-90608e546029" name="Changes" comment="" />
+    <list default="true" id="fdf24447-f1cd-4dde-b0f4-90608e546029" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/assets/docs/Lakshay_Girdher_FT.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cert.html" beforeDir="false" afterPath="$PROJECT_DIR$/cert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu.html" beforeDir="false" afterPath="$PROJECT_DIR$/edu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exp.html" beforeDir="false" afterPath="$PROJECT_DIR$/exp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publish.html" beforeDir="false" afterPath="$PROJECT_DIR$/publish.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/voul.html" beforeDir="false" afterPath="$PROJECT_DIR$/voul.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,29 +51,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/laksh/Desktop/portfolio website lakshay&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/laksh/Desktop/portfolio website lakshay/static/assets/docs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laksh\Desktop\portfolio website lakshay\static\assets\docs" />
+      <recent name="C:\Users\laksh\Desktop\portfolio website lakshay\static\images" />
       <recent name="C:\Users\laksh\Desktop\Flask Website\Flask Website\static\files" />
       <recent name="C:\Users\laksh\Desktop\Flask Website\Flask Website\static\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\laksh\Desktop\portfolio website lakshay\static\images" />
+      <recent name="C:\Users\laksh\Desktop\portfolio website lakshay\static\assets\docs" />
       <recent name="C:\Users\laksh\Desktop\portfolio website lakshay\static\assets\webfonts" />
       <recent name="C:\Users\laksh\Desktop\portfolio website lakshay" />
       <recent name="C:\Users\laksh\Desktop\portfolio website lakshay\Flask Website\static\images" />
-      <recent name="C:\Users\laksh\Desktop\Flask Website\Flask Website\static\images" />
     </key>
   </component>
   <component name="SharedIndexes">
